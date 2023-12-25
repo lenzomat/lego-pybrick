@@ -1,7 +1,7 @@
 # lego-pybrick
 Lego Pybrick projects
 
-Control LEGO Technic Audi RS Q e-tron 42160 with LEGO Powered Up remote (88010).
+Control LEGO Technic Audi RS Q e-tron 42160 with LEGO Powered Up remote 88010.
 
 How to setup/connect, check out https://www.youtube.com/watch?v=gRG8NRjnYZs
 
